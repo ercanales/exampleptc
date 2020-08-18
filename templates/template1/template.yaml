@@ -7,7 +7,4 @@
     - name: emailRecipient
       type: string
       displayName: Email address to be used for sending build notifications
-    - name: github_repo
-      type: string
-      displayName: GitHub HTTPS repo endpoint
-      allowedValues: ['One','Two','Three']
+      description: This is mentioned in the documentation as a usable option
